@@ -1,0 +1,40 @@
+
+User-agent: *
+Allow: /accident-highway-qtjf
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Allow:
+Sitemap: https://daculacoolplumber.com/accident-highway-qtjf/sitemap.xml
+
+User-agent: *
+Allow: /jacob-s-qmgghca
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Allow:
+Sitemap: https://daculacoolplumber.com/jacob-s-qmgghca/sitemap.xml
+
+User-agent: *
+Allow: /art-tv-ssdune
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Allow:
+Sitemap: https://daculacoolplumber.com/art-tv-ssdune/sitemap.xml
+
+User-agent: *
+Allow: /tips-for-qsovxf
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Allow:
+Sitemap: https://daculacoolplumber.com/tips-for-qsovxf/sitemap.xml
+
+User-agent: *
+Allow: /xcoha6vo
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Allow:
+Sitemap: https://daculacoolplumber.com/xcoha6vo/sitemap.xml
